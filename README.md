@@ -2,7 +2,7 @@
 
 😹 😻 I am operating as a front-end developer on a team of very talented people. 😺 😸 
 
- 👾 I’m currently learning everything that I can get my nads on!...but mostyly JavaScript. 🤖 
+ 👾 I’m currently learning everything that I can get my hands on!...but mostyly JavaScript. 🤖 
 
 
 My interest in coding started many years ago when I was much younger. I had witnessed a friend of mine do some magic with C++ and it immediately resonated with me. I was hooked. 
