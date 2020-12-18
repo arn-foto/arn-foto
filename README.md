@@ -1,6 +1,6 @@
 ### Howdy, folks 🤠💻
 
-😹 😻 I am operating as a front-end developer on a team of very talented people. 😺 😸 
+😹 😻 I am currently operating as a front-end developer on a team of very talented people. 😺 😸 
 
  👾 I’m currently learning everything that I can get my hands on!...but mostly JavaScript. 🤖 
 
