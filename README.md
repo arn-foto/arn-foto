@@ -1,4 +1,4 @@
-## Howdy, folks 🤠💻 ##
+### Howdy, folks 🤠💻 ###
 
 😹 😻 I am currently interning as a front-end developer on a team of very talented people. 😺 😸 
 
