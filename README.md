@@ -4,7 +4,7 @@
 
 
 
-https://dev-ant.netlify.app/
+https://dev-ant.netlify.app
 
 
 
