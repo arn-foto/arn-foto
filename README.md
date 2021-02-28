@@ -1,4 +1,4 @@
-## Howdy, folks 🤠💻:octocat:  ##
+# Howdy, folks 🤠💻:octocat:  #
 
  👾 Learning everything that I can get my hands on. :octocat: 
 
