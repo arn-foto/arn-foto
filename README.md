@@ -1,6 +1,6 @@
-# Howdy, folks 🤠💻:octocat:  #
+# Howdy, folks 🤠💻 #
 
- 👾 Learning everything that I can get my hands on...but mostly JavaScript :octocat: 
+ :octocat: Learning everything that I can get my hands on...but mostly JavaScript :octocat: 
 
 
 
